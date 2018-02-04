@@ -7,12 +7,11 @@ Angular
 #######################################
 GoLang
 #######################################
-- underscores in file names: packer-template.go
+- underscores in file names: packer_template.go
 - classes, interfaces UpperCamelCase:   PackerTemplate
 
 
 #######################################
 MySQL
 #######################################
-- underscores in table names: packer_template
-- databases in UpperCamelCase:   DryBuilder
+- underscores in table names AND database names: packer_template, dry_builder
