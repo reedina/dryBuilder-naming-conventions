@@ -1,0 +1,18 @@
+#######################################
+Angular
+#######################################
+- dashes in file names:  packer-template.component.ts
+- classes, interfaces UpperCamelCase:   PackerTemplate
+
+#######################################
+GoLang
+#######################################
+- underscores in file names: packer-template.go
+- classes, interfaces UpperCamelCase:   PackerTemplate
+
+
+#######################################
+MySQL
+#######################################
+- underscores in table names: packer_template
+- databases in UpperCamelCase:   DryBuilder
